@@ -143,7 +143,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\가장많이사용된자릿수.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\나이계산.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\나이차이.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\뒤집은소수.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\모두의약수.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\분노유발자.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\선생님퀴즈.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\소수의개수.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\숫자만추출.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\숫자의총개수(large).cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\숫자의총개수(small).cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\아나그램.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\영어단어복구.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\올바른괄호.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\자릿수의합.cpp" />
+    <ClCompile Include="..\..\..\C++ 코딩테스트_대비\C++ 코딩테스트_대비\층간소음.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="가장많이사용된자릿수.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
