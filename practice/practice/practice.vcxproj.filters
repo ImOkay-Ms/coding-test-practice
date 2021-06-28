@@ -90,5 +90,17 @@
     <ClCompile Include="말아톤.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="N!표기법.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3의개수는%28small%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3의개수는(large).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="탄화수소.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
